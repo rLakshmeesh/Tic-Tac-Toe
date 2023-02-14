@@ -69,6 +69,11 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+//    public void reset(View view){
+//        gameActive=true;
+//        activePlayer=0;
+//
+//    }
 public void gameReset(View view){
         gameActive = true;
         activePlayer=0;

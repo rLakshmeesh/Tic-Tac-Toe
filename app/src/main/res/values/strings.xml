@@ -2,4 +2,5 @@
     <string name="app_name">Tic Tac Toe</string>
     <string name="tic_tac_toe">Welcome To Tic-Tac-Toe</string>
     <string name="grid">Our Main grid</string>
+    <string name="button">RESET</string>
 </resources>
